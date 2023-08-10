@@ -1,0 +1,15 @@
+D:\gb курс Разработчик\Язык C#\S SHARP\HomeWork08\bin\Debug\net6.0\HomeWork08.exe
+D:\gb курс Разработчик\Язык C#\S SHARP\HomeWork08\bin\Debug\net6.0\HomeWork08.deps.json
+D:\gb курс Разработчик\Язык C#\S SHARP\HomeWork08\bin\Debug\net6.0\HomeWork08.runtimeconfig.json
+D:\gb курс Разработчик\Язык C#\S SHARP\HomeWork08\bin\Debug\net6.0\HomeWork08.dll
+D:\gb курс Разработчик\Язык C#\S SHARP\HomeWork08\bin\Debug\net6.0\HomeWork08.pdb
+D:\gb курс Разработчик\Язык C#\S SHARP\HomeWork08\obj\Debug\net6.0\HomeWork08.csproj.AssemblyReference.cache
+D:\gb курс Разработчик\Язык C#\S SHARP\HomeWork08\obj\Debug\net6.0\HomeWork08.GeneratedMSBuildEditorConfig.editorconfig
+D:\gb курс Разработчик\Язык C#\S SHARP\HomeWork08\obj\Debug\net6.0\HomeWork08.AssemblyInfoInputs.cache
+D:\gb курс Разработчик\Язык C#\S SHARP\HomeWork08\obj\Debug\net6.0\HomeWork08.AssemblyInfo.cs
+D:\gb курс Разработчик\Язык C#\S SHARP\HomeWork08\obj\Debug\net6.0\HomeWork08.csproj.CoreCompileInputs.cache
+D:\gb курс Разработчик\Язык C#\S SHARP\HomeWork08\obj\Debug\net6.0\HomeWork08.dll
+D:\gb курс Разработчик\Язык C#\S SHARP\HomeWork08\obj\Debug\net6.0\refint\HomeWork08.dll
+D:\gb курс Разработчик\Язык C#\S SHARP\HomeWork08\obj\Debug\net6.0\HomeWork08.pdb
+D:\gb курс Разработчик\Язык C#\S SHARP\HomeWork08\obj\Debug\net6.0\HomeWork08.genruntimeconfig.cache
+D:\gb курс Разработчик\Язык C#\S SHARP\HomeWork08\obj\Debug\net6.0\ref\HomeWork08.dll
